@@ -1,0 +1,27 @@
+th {
+    background-color: rgb(58, 145, 162) !important;
+    color: white !important;
+}
+
+.isCheck-in {
+    background-color: green;
+    padding: 4px;
+    border-radius: 0.25rem;
+    white-space: nowrap;
+}
+
+.isBooked {
+    background-color: orangered;
+    padding: 4px;
+    border-radius: 0.25rem;
+    white-space: nowrap;
+    color: green;
+}
+
+.isCheckout {
+    background-color: seashell;
+    padding: 4px;
+    border-radius: 0.25rem;
+    white-space: nowrap;
+    color: green;
+}
